@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1630138371 source:d:\amit\cproject\amit_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	<string.h>
+
+1629452362 source:d:\amit\cproject\amit_c\factorial.c
+
+1629530068 source:d:\amit\cproject\amit_c\mymath.c
+	<stdio.h>
+
+1629460068 d:\amit\cproject\amit_c\factorial.h
+
+1629530392 d:\amit\cproject\amit_c\mymath.h
+
+1629530176 d:\amit\cproject\amit_c\test1.h
+	"myMath.h"
+
+1629530181 source:d:\amit\cproject\amit_c\test1.c
+	<stdio.h>
+
